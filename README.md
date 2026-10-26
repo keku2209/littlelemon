@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack LittleLemon Restaurant Reservation System
 
 This is a simple full-stack restaurant table reservation system, which is developed using Python, and Django, as part of a Meta Back-End Developer Developer Professional Certificate program to acquire the necessary skills to become a full-stack developer, focusing on in particular Python, as well as the Django Web / REST Framework, to build inevitably build out a full-stack application.
@@ -204,3 +205,7 @@ pipenv shell
 * CSS
 * JavaScript
 
+=======
+# littlelemon
+Django-based Little Lemon restaurant backend featuring MySQL, REST APIs, menu management, table bookings, and user authentication.
+>>>>>>> 358177cf645181ccc57f35d065545a0e4e210b4c
